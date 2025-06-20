@@ -12,4 +12,7 @@ keeping files
 "git reset --hard [commit hash]" go back to previous commit eliminating all
 the files
 
+"git rm --cached -r [folder]" used to stop tracking a certain folder or file.
+Ex:If i commited a large folder that i forgot to include in the .gitignore and i dont want to send it to the remote repository.
+
 
