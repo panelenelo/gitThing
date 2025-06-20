@@ -1,0 +1,15 @@
+
+"git log" to see commit list
+"git reflog" same but more detailed
+
+"git restore" go back to commit, ignoring untracked changes
+
+"git reset --soft [commit hash]" to go back to a previous previous commit but
+keeping files
+
+"git reset --mixed [commit hash]" same as soft but the files are untracked
+
+"git reset --hard [commit hash]" go back to previous commit eliminating all
+the files
+
+
